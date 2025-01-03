@@ -4,7 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Prerequisties: 
+Flutter SDK: 3.3.10
+
+## Steps
+1. Clone the repo
+2. Navigate to project directory : cd wizdoapp
+3. Install dependencies : flutter pub get
+4. Run app : flutter run
+
 
 A few resources to get you started if this is your first Flutter project:
 
